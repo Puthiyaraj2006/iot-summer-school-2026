@@ -1,3 +1,10 @@
 # Development Notes
 
-This file is created in the dev branch.
+## dev
+- Main development and testing branch
+
+## sensor-module
+- Sensor related code and experiments
+
+## wireless-module
+- Wireless communication projects such as Wi-Fi and Bluetooth
