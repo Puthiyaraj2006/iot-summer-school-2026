@@ -24,3 +24,4 @@ void loop() {
   Serial.print("Blink count: ");
   Serial.println(count);
 }
+// Fixed issue #2
