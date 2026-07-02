@@ -1,3 +1,8 @@
+/*
+Author: Puthiyaraj P
+Date: 02-07-2026
+Description: LED blink with potentiometer speed control and serial blink counter
+*/
 int count = 0;
 int potPin = A0;
 
