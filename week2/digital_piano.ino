@@ -14,7 +14,18 @@ void setup() {
 
 void loop() {
 
-  if (digitalRead(button1) == LOW) {
+  if (
+    (digitalRead(button1) == LOW && digitalRead(button2) == LOW) ||
+    (digitalRead(button1) == LOW && digitalRead(button3) == LOW) ||
+    (digitalRead(button1) == LOW && digitalRead(button4) == LOW) ||
+    (digitalRead(button2) == LOW && digitalRead(button3) == LOW) ||
+    (digitalRead(button2) == LOW && digitalRead(button4) == LOW) ||
+    (digitalRead(button3) == LOW && digitalRead(button4) == LOW)
+  ) {
+    tone(buzzer, 392);
+  }
+
+  else if (digitalRead(button1) == LOW) {
     tone(buzzer, 262);
   }
 
