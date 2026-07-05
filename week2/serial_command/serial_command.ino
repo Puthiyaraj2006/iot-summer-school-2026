@@ -1,3 +1,10 @@
+/*
+ * Author: Puthiyaraj P
+ * Date: 04-07-2026
+ * Description: Serial Command Interface for Built-in LED Control
+ * IIT Jammu Summer School 2026 - IoT Assignment Q16
+ */
+
 int blinkCounter = 0;
 bool ledState = false;
 
