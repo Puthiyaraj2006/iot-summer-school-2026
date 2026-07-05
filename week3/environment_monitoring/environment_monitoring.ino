@@ -1,3 +1,9 @@
+/*
+ * Author: Puthiyaraj P
+ * Date: 04-07-2026
+ * Description: Environmental Monitoring Station using DHT11 Sensor
+ * IIT Jammu Summer School 2026 - IoT Assignment Q21
+ */
 #include <DHT.h>
 
 #define DHTPIN 2
