@@ -1,3 +1,10 @@
+/*
+ * Author: Puthiyaraj P
+ * Date: 04-07-2026
+ * Description: PWM Fading Night Light with Three Modes (Slow, Fast, SOS)
+ * IIT Jammu Summer School 2026 - IoT Assignment Q17
+ */
+
 const int ledPin = 9;
 const int buttonPin = 2;
 
