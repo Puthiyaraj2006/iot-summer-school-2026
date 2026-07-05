@@ -1,3 +1,9 @@
+/*
+ * Author: Puthiyaraj P
+ * Date: 04-07-2026
+ * Description: State Machine with LEDs and Serial Monitor
+ * IIT Jammu Summer School 2026 - IoT Assignment Q18
+ */
 const int ledIdle = 8;
 const int ledCoin = 9;
 const int ledItem = 10;
