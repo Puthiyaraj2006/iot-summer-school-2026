@@ -1,7 +1,7 @@
 # Q28 - Keypad + LCD Password Protected Access System
 
 ## Author
-Puthiyaraj
+Puthiyaraj P
 
 ## Objective
 Build a password-protected access system using a 4x4 keypad and a 16x2 LCD. The system validates a 4-digit PIN, grants or denies access, and locks for 10 seconds after three incorrect attempts.
