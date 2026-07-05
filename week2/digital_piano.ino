@@ -1,3 +1,10 @@
+/*
+ * Author: Puthiyaraj P
+ * Date: 04-07-2026
+ * Description: Digital Piano using Buzzer with Major/Minor Mode Toggle
+ * IIT Jammu Summer School 2026 - IoT Assignment Q15
+ */
+
 const int buzzer = 8;
 
 const int button1 = 2;
