@@ -1,3 +1,10 @@
+/*
+ * Author: Puthiyaraj P
+ * Date: 04-07-2026
+ * Description: Traffic Light Controller with Pedestrian Button and Serial Monitor Output
+ * IIT Jammu Summer School 2026 - IoT Assignment Q14
+ */
+
 const int RED = 2;
 const int YELLOW = 3;
 const int GREEN = 4;
