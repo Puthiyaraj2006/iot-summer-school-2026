@@ -1,7 +1,7 @@
 # Q23 - Smart Street Light
 
 ## Author
-Puthiyaraj
+Puthiyaraj P
 
 ## Components Used
 - Arduino Uno
